@@ -3,7 +3,6 @@
 The top nth processes which take up CPU and memory space usage are available through this module, additionaly;
 the module can get the system load information.
 '''
-
 #Import python libs
 import os
 # Import salt libs
