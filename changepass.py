@@ -2,7 +2,7 @@
 import socket
 import re
 import os
-import sys
+# import sys
 import crypt
 
 def __password():
